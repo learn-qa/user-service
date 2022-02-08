@@ -1,2 +1,12 @@
 # user-service
-Sample User API service
+User API service
+
+# install
+npm install
+
+# run
+## dev
+npm run dev
+
+## build
+npm run build
